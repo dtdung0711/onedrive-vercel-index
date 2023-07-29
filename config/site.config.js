@@ -20,7 +20,7 @@ module.exports = {
   title: "OneDrive của tôi",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: '/', '/00.Windows',
+  baseDirectory: '/',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
