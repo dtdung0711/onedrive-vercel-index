@@ -24,7 +24,7 @@ const localeText = (locale: string): string => {
     case 'vi':
       return '🇪🇸 Español'
     case 'es':
-      return '🇮🇩 Vietnamese'
+      return '🇻🇳 Vietnamese'
     case 'zh-CN':
       return '🇨🇳 简体中文'
     case 'hi':
