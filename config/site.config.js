@@ -57,6 +57,10 @@ module.exports = {
       name: 'Facebook',
       link: 'https://www.facebook.com/profile.php?id=100090370753559',
     },
+    {
+      name: 'Youtube',
+      link: 'https://www.youtube.com/channel/UC2lpg9WnOLut1S-vz-E91Ow',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
