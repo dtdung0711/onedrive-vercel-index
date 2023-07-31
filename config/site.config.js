@@ -54,6 +54,10 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
+      name: 'Telegram',
+      link: 'https://t.me/dtdung',
+    },
+    {
       name: 'Facebook',
       link: 'https://www.facebook.com/profile.php?id=100090370753559',
     },
