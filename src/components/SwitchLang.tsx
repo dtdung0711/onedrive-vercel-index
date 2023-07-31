@@ -21,6 +21,8 @@ const localeText = (locale: string): string => {
       return '🇩🇪 Deutsch'
     case 'en':
       return '🇬🇧 English'
+	case 'vi':
+      return '🇮🇩 Vietnamese'
     case 'es':
       return '🇪🇸 Español'
     case 'zh-CN':
