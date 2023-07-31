@@ -1,3 +1,4 @@
+{
 "- showing {{count}} page(s) ——one": "- hiển thị {{count}} trang ",
 "- showing {{count}} page(s) ——other": "- hiển thị {{count}} trang ",
 "{{count}} item(s)——one": "{{count}} mục",
@@ -118,3 +119,4 @@
 "What is this?": "Đây là gì?",
 "Where is the auth code? Did you follow step 2 you silly donut?": "Mã xác thực ở đâu? Bạn đã làm theo bước 2 chưa, bạn cây bánh quẩy ngốc?",
 "Whoops, looks like we got a problem: {{error}}.": "Ối, có vẻ như chúng ta gặp vấn đề: {{error}}."
+}
